@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center"> 
-  <img src="https://m.media-amazon.com/images/I/41Yyo+3BJkL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg" alt="Malwarebytes Premium Banner" width="40%" />
+  <img src="https://m.media-amazon.com/images/I/41Yyo+3BJkL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg" alt="Malwarebytes Premium Banner" width="/1%" />
 </p>
 
 <h1 align="center">⚡ Malwarebytes Premium Unlock Tool</h1>
